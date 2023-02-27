@@ -1,0 +1,26 @@
+.footer_comp {
+  display: flex;
+  flex-direction: column;
+}
+.footer_elements {
+  display: flex;
+  flex-direction: column;
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 70%;
+  line-height: 80%;
+  color: white;
+
+
+}
+.footer_head {
+  margin-bottom: 20%;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 60px;
+  color: white;
+}

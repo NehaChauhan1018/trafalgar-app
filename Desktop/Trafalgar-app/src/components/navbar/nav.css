@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 75px 25px 75px;
+    align-items: center;
+    
+}
+
+.left-nav{
+    width: 30%;
+}
+.right-nav{
+    width: 45%;
+display: flex;
+justify-content: space-evenly;
+   /* margin-bottom: 30px; */
+}
+
+
+
+.nav-item{
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+

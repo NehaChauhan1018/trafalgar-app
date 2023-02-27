@@ -1,0 +1,53 @@
+.ContactUs{
+    display: flex;
+    background: linear-gradient(208.18deg, #bbd0db 9.05%, #5a98f2 76.74%);
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+    margin-bottom: 10%;
+    padding: auto;
+
+    border-radius: 30px;
+    box-shadow: 10px 10px #b6b9bb;
+
+
+}
+
+h1{
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    color: white;
+}
+
+
+
+/* button{
+    position: absolute;
+    right: 475px;
+} */
+
+.inner{
+    padding-bottom: 4%;
+}
+.left-form{
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 70%;
+    line-height: 100%;
+    color: white;
+
+}
+.right-form{
+
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 70%;
+    line-height: 100%;
+    color: white;
+
+}
